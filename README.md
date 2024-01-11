@@ -1,1 +1,1 @@
-# Jupyter-Notebook-Neural-Networks
+Practicing formatting neural networks using Jupyter Notebook.
